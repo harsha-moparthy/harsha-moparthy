@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @harsha-moparthy
 - 👀 I’m interested in Machine Learning, Algorithmic Trading, Competetitive Programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Information Retrieval, Differential Privacy
+- 💞️ I’m looking to collaborate on LLMs, In Context Learning
+- 📫 How to reach me Linkedin (sriharshamoparthy)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am average of my 3 best friends
 
