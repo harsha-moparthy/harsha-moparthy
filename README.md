@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harsha-moparthy
-- 👀 I’m interested in Machine Learning, Algorithmic Trading, Competetitive Programming
+- 👀 I’m interested in Machine Learning, Algorithmic Trading, Competetive Programming
 - 🌱 I’m currently learning Information Retrieval, Differential Privacy
 - 💞️ I’m looking to collaborate on LLMs, In Context Learning
 - 📫 How to reach me Linkedin (sriharshamoparthy)
